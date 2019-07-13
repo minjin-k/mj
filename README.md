@@ -1,2 +1,0 @@
-# mj
-$ git rm [test]
